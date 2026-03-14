@@ -67,7 +67,7 @@ instagram-manager/
 ```bash
 # 1. Clone or download the project
 git clone https://github.com/codebyanmol/insta-manager-cli.git
-cd instagram-manager
+cd insta-manager-cli
 
 # 2. (Optional but recommended) Create a virtual environment
 python -m venv venv
